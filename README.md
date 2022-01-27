@@ -3,9 +3,9 @@
 Get file directory path from user and identify all PDF files available in given directory. Finally merge all those identified PDF files into 1 PDF creating New_Merged_File.pdf in downloads directory.
 
 Note:
-  log file should have all details in check_logs.log file in downloads directory
-  All possible exceptions to be capture in log file
-  user defined module/function import to be available enhancing modular coding and re-usability
+  1) log file should have all details in check_logs.log file in downloads directory
+  2) All possible exceptions to be capture in log file
+  3) user defined module/function import to be available enhancing modular coding and re-usability
   
 Case 1: Providing Valid Directory
 
