@@ -31,6 +31,12 @@ Case 5: Invalid directory syntax
 
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/86144117/151276946-3161a370-ed6b-44ee-aec9-f0e4b29e4527.png">
 
+Case 6: Enhancing by listing out pdf files available in user provided directory
+
+<img width="531" alt="image" src="https://user-images.githubusercontent.com/86144117/151281826-ab504308-b3ee-4620-961b-3e4affaaff4e.png">
+
+
+
 
 
 
