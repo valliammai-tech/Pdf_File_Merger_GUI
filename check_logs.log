@@ -1,0 +1,285 @@
+2022-01-26 16:11:15,659 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-26 16:16:23,870 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-26 16:17:41,976 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-26 16:18:52,061 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-26 16:23:49,147 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-26 16:26:59,029 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-26 16:29:30,112 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-26 16:41:49,449 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:45:25,889 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:47:17,192 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:47:49,485 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:52:03,371 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:52:33,548 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:52:33,553 DEBUG files to be merged are : []
+2022-01-26 16:56:03,840 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:56:03,840 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-26 16:56:03,840 ERROR 
+2022-01-26 16:56:03,841 DEBUG files to be merged are : []
+2022-01-26 16:56:54,739 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-26 16:56:54,755 ERROR 
+2022-01-26 16:56:54,757 DEBUG files to be merged are : []
+2022-01-27 05:13:03,469 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 05:13:03,472 ERROR 
+2022-01-27 05:13:03,472 DEBUG files to be merged are : []
+2022-01-27 05:16:23,680 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 05:16:23,696 ERROR 
+2022-01-27 05:16:23,697 DEBUG files to be merged are : []
+2022-01-27 05:17:50,490 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 05:17:50,506 ERROR 
+2022-01-27 05:17:50,507 DEBUG files to be merged are : []
+2022-01-27 05:20:34,766 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 05:20:34,766 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 05:20:34,766 ERROR 
+2022-01-27 05:20:34,766 DEBUG files to be merged are : []
+2022-01-27 05:21:33,623 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 05:21:33,623 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 05:21:33,623 DEBUG files to be merged are : []
+2022-01-27 05:23:34,801 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 05:23:34,801 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 05:23:34,801 DEBUG files to be merged are : []
+2022-01-27 05:23:34,801 INFO Pdf files merged successfully
+2022-01-27 05:25:24,514 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 05:25:24,514 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 05:25:24,514 DEBUG files to be merged are : []
+2022-01-27 05:25:24,514 INFO Pdf files merged successfully
+2022-01-27 05:25:53,332 INFO directory path provided by user is: C:/Users/vmuth/Downloads
+2022-01-27 05:25:53,332 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 05:25:53,332 DEBUG files to be merged are : []
+2022-01-27 05:25:53,332 INFO Pdf files merged successfully
+2022-01-27 05:26:21,212 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 05:26:21,212 INFO Pdf files to be merge identified successfully
+2022-01-27 05:26:21,212 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 05:26:21,212 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 05:26:21,220 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 05:26:21,275 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 05:26:21,275 INFO Pdf files merged successfully
+2022-01-27 06:16:03,275 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:16:03,275 INFO Pdf files to be merge identified successfully
+2022-01-27 06:16:03,275 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:16:03,314 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:16:03,314 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:16:03,378 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:16:03,378 INFO Pdf files merged successfully
+2022-01-27 06:16:20,639 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:16:20,639 INFO Pdf files to be merge identified successfully
+2022-01-27 06:16:20,639 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:16:20,701 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:16:20,701 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:16:20,750 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:16:20,750 INFO Pdf files merged successfully
+2022-01-27 06:16:25,092 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:16:25,092 INFO Pdf files to be merge identified successfully
+2022-01-27 06:16:25,092 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:16:25,172 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:16:25,172 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:16:25,221 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:16:25,221 INFO Pdf files merged successfully
+2022-01-27 06:25:23,431 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:25:23,431 INFO Pdf files to be merge identified successfully
+2022-01-27 06:25:23,431 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:25:23,440 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:25:23,487 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:25:23,487 INFO Pdf files merged successfully
+2022-01-27 06:25:48,332 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:25:48,340 INFO Pdf files to be merge identified successfully
+2022-01-27 06:25:48,340 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:25:48,372 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:25:48,372 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:25:48,420 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:25:48,420 INFO Pdf files merged successfully
+2022-01-27 06:25:53,064 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:25:53,064 INFO Pdf files to be merge identified successfully
+2022-01-27 06:25:53,064 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:25:53,111 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:25:53,111 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:25:53,158 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:25:53,158 INFO Pdf files merged successfully
+2022-01-27 06:26:53,288 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:26:53,288 INFO Pdf files to be merge identified successfully
+2022-01-27 06:26:53,296 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:26:53,382 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:26:53,382 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:26:53,432 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:26:53,432 INFO Pdf files merged successfully
+2022-01-27 06:26:59,787 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:26:59,787 INFO Pdf files to be merge identified successfully
+2022-01-27 06:26:59,787 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:26:59,927 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:26:59,927 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:26:59,977 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:26:59,977 INFO Pdf files merged successfully
+2022-01-27 06:28:06,995 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:28:06,995 INFO Pdf files to be merge identified successfully
+2022-01-27 06:28:06,995 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:28:07,153 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:28:07,171 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:28:07,241 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:28:07,241 INFO Pdf files merged successfully
+2022-01-27 06:28:13,879 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:28:13,879 INFO Pdf files to be merge identified successfully
+2022-01-27 06:28:13,879 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:28:14,024 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:28:14,040 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:28:14,117 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:28:14,117 INFO Pdf files merged successfully
+2022-01-27 06:29:41,026 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:29:41,026 INFO Pdf files to be merge identified successfully
+2022-01-27 06:29:41,026 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:29:41,321 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:29:41,321 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:29:41,403 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:29:41,403 INFO Pdf files merged successfully
+2022-01-27 06:30:18,436 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:30:18,436 INFO Pdf files to be merge identified successfully
+2022-01-27 06:30:18,436 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:30:18,695 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:30:18,696 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:30:18,743 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:30:18,743 INFO Pdf files merged successfully
+2022-01-27 06:31:38,947 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:31:38,947 INFO Pdf files to be merge identified successfully
+2022-01-27 06:31:38,947 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:31:39,181 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:31:39,196 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:31:39,244 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:31:39,244 INFO Pdf files merged successfully
+2022-01-27 06:31:45,396 INFO directory path provided by user is: hello
+2022-01-27 06:31:45,396 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:31:45,396 DEBUG files to be merged are : []
+2022-01-27 06:31:45,396 INFO Pdf files merged successfully
+2022-01-27 06:38:36,994 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:38:36,994 INFO Pdf files to be merge identified successfully
+2022-01-27 06:38:36,994 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:38:36,994 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:38:37,003 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:38:37,089 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:38:37,089 INFO No Exception during merging pdfs
+2022-01-27 06:40:14,440 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:40:14,440 INFO Pdf files to be merge identified successfully
+2022-01-27 06:40:14,440 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:40:14,490 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:40:14,490 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:40:14,538 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:40:14,538 INFO No Exception during merging pdfs
+2022-01-27 06:42:01,856 INFO directory path provided by user is: hello
+2022-01-27 06:42:01,856 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:42:01,856 DEBUG files to be merged are : []
+2022-01-27 06:42:56,257 INFO directory path provided by user is: hello
+2022-01-27 06:42:56,258 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:42:56,258 DEBUG files to be merged are : []
+2022-01-27 06:45:39,987 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:45:39,987 INFO Pdf files to be merge identified successfully
+2022-01-27 06:45:39,987 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:45:40,004 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:45:40,051 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:45:40,051 INFO No Exception during merging pdfs
+2022-01-27 06:47:21,071 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:47:21,071 INFO Pdf files to be merge identified successfully
+2022-01-27 06:47:21,071 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:47:21,119 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:47:21,119 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:47:21,167 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:47:21,167 INFO No Exception during merging pdfs
+2022-01-27 06:47:34,756 INFO directory path provided by user is: C:/Users/vmuth/Download
+2022-01-27 06:47:34,757 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:47:34,757 DEBUG files to be merged are : []
+2022-01-27 06:47:49,634 INFO directory path provided by user is: C:/Users/vmuth/Download/
+2022-01-27 06:47:49,634 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:47:49,634 DEBUG files to be merged are : []
+2022-01-27 06:51:53,116 INFO directory path provided by user is: C:/Users/vmuth/Downloads
+2022-01-27 06:51:53,116 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:51:53,116 DEBUG files to be merged are : []
+2022-01-27 06:51:53,116 ERROR Error occured in pdf_file_merge.py
+2022-01-27 06:51:58,846 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:51:58,846 INFO Pdf files to be merge identified successfully
+2022-01-27 06:51:58,846 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:51:58,908 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:51:58,908 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:51:58,956 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:51:58,956 INFO No Exception during merging pdfs
+2022-01-27 06:52:09,576 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:52:09,576 INFO Pdf files to be merge identified successfully
+2022-01-27 06:52:09,576 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:52:09,661 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:52:09,661 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:52:09,708 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:52:09,708 INFO No Exception during merging pdfs
+2022-01-27 06:57:02,838 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 06:57:02,839 INFO Pdf files to be merge identified successfully
+2022-01-27 06:57:02,839 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\New_Merged_File.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 06:57:02,952 INFO file C:/Users/vmuth/Downloads\New_Merged_File.pdf is merged successfully
+2022-01-27 06:57:02,963 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 06:57:03,000 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 06:57:03,000 INFO No Exception during merging pdfs
+2022-01-27 06:57:12,030 INFO No Exception in button on_click function call
+2022-01-27 06:57:12,030 INFO Job completed!!
+2022-01-27 06:58:20,874 INFO directory path provided by user is: hello
+2022-01-27 06:58:20,874 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:58:20,874 DEBUG files to be merged are : []
+2022-01-27 06:58:20,874 ERROR Error occured in pdf_file_merge.py
+2022-01-27 06:58:29,101 INFO No Exception in button on_click function call
+2022-01-27 06:58:29,101 INFO Job completed!!
+2022-01-27 06:59:54,279 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 06:59:54,279 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 06:59:54,279 DEBUG files to be merged are : []
+2022-01-27 06:59:54,279 ERROR Error occured in pdf_file_merge.py
+2022-01-27 06:59:58,492 INFO No Exception in button on_click function call
+2022-01-27 06:59:58,492 INFO Job completed!!
+2022-01-27 07:00:01,570 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda/
+2022-01-27 07:00:01,570 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 07:00:01,570 DEBUG files to be merged are : []
+2022-01-27 07:00:01,570 ERROR Error occured in pdf_file_merge.py
+2022-01-27 07:00:04,559 INFO No Exception in button on_click function call
+2022-01-27 07:00:04,559 INFO Job completed!!
+2022-01-27 07:00:09,222 INFO directory path provided by user is: C:/Users/vmuth/Downloads
+2022-01-27 07:00:09,222 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 07:00:09,222 DEBUG files to be merged are : []
+2022-01-27 07:00:09,222 ERROR Error occured in pdf_file_merge.py
+2022-01-27 07:00:11,200 INFO No Exception in button on_click function call
+2022-01-27 07:00:11,200 INFO Job completed!!
+2022-01-27 07:00:13,871 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 07:00:13,871 INFO Pdf files to be merge identified successfully
+2022-01-27 07:00:13,871 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 07:00:13,871 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 07:00:13,936 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 07:00:13,936 INFO No Exception during merging pdfs
+2022-01-27 07:00:15,835 INFO No Exception in button on_click function call
+2022-01-27 07:00:15,835 INFO Job completed!!
+2022-01-27 07:11:21,339 INFO directory path provided by user is: C:/Users/vmuth/Downloads/
+2022-01-27 07:11:21,343 INFO Pdf files to be merge identified successfully
+2022-01-27 07:11:21,343 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads\\SamplePdf1_12mb_6pages.pdf', 'C:/Users/vmuth/Downloads\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 07:11:21,356 INFO file C:/Users/vmuth/Downloads\SamplePdf1_12mb_6pages.pdf is merged successfully
+2022-01-27 07:11:21,439 INFO file C:/Users/vmuth/Downloads\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 07:11:21,439 INFO No Exception during merging pdfs
+2022-01-27 07:12:31,966 INFO No Exception in button on_click function call
+2022-01-27 07:12:31,966 INFO Job completed!!
+2022-01-27 07:12:55,384 INFO directory path provided by user is: C:/Users/vmuth/Downloads
+2022-01-27 07:12:55,384 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 07:12:55,384 DEBUG files to be merged are : []
+2022-01-27 07:12:55,384 ERROR Error occured in pdf_file_merge.py
+2022-01-27 07:13:00,179 INFO No Exception in button on_click function call
+2022-01-27 07:13:00,180 INFO Job completed!!
+2022-01-27 07:13:06,851 INFO directory path provided by user is: hello
+2022-01-27 07:13:06,851 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 07:13:06,851 DEBUG files to be merged are : []
+2022-01-27 07:13:06,851 ERROR Error occured in pdf_file_merge.py
+2022-01-27 07:14:51,216 INFO No Exception in button on_click function call
+2022-01-27 07:14:51,216 INFO Job completed!!
+2022-01-27 07:15:40,857 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda/
+2022-01-27 07:15:40,857 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 07:15:40,857 DEBUG files to be merged are : []
+2022-01-27 07:15:40,857 ERROR Error occured in pdf_file_merge.py
+2022-01-27 07:16:36,922 INFO No Exception in button on_click function call
+2022-01-27 07:16:36,923 INFO Job completed!!
+2022-01-27 07:17:45,379 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda/
+2022-01-27 07:17:45,379 INFO Pdf files to be merge identified successfully
+2022-01-27 07:17:45,379 DEBUG files to be merged are : ['C:/Users/vmuth/Downloads/Anaconda\\SamplePdf_1.73Mb_87_Page.pdf']
+2022-01-27 07:17:45,411 INFO file C:/Users/vmuth/Downloads/Anaconda\SamplePdf_1.73Mb_87_Page.pdf is merged successfully
+2022-01-27 07:17:45,411 INFO No Exception during merging pdfs
+2022-01-27 07:18:29,110 INFO No Exception in button on_click function call
+2022-01-27 07:18:29,110 INFO Job completed!!
+2022-01-27 07:18:35,256 INFO directory path provided by user is: C:/Users/vmuth/Downloads/Anaconda
+2022-01-27 07:18:35,257 ERROR No Pdf files found in the given directory and hence no file to merge
+2022-01-27 07:18:35,257 DEBUG files to be merged are : []
+2022-01-27 07:18:35,257 ERROR Error occured in pdf_file_merge.py
